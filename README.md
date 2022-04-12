@@ -10,7 +10,7 @@ My name is Alza Ichsan Kurniawan, just call me Alza or Za. Currently working at 
 
 ![Alzaichsank's trophy](https://github-profile-trophy.vercel.app/?username=alzaichsank&theme=nord&column=7&margin-w=10&margin-h=15)
 
-![Alzaichsank's blog](https://github-read-medium.vercel.app/latest?username=alzaichsank&limit=6&theme=nord)
+<!-- ![Alzaichsank's blog](https://github-read-medium.vercel.app/latest?username=alzaichsank&limit=6&theme=nord) -->
 
 ## Get in Touch
 I'm always open and looking for any collaboration or founding startup, feel free to reach me out via :
