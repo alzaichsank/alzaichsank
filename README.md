@@ -15,5 +15,5 @@ My name is Alza Ichsan Kurniawan, just call me Alza or Za. Currently working at 
 ## Get in Touch
 I'm always open and looking for any collaboration or founding startup, feel free to reach me out via :
 - Email : [alzaichsank@gmail.com](mailto:alzaichsank@gmail.com)
-- LinkedIn : [Farhan Yuda Pahlevi](https://www.linkedin.com/in/alzaichsank``/)
+- LinkedIn : [Alza Ichsan Kurniawan](https://www.linkedin.com/in/alzaichsank``/)
 - Personal Site : [Landing Page](http://codehopedevloper.com/)
