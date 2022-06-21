@@ -18,4 +18,4 @@ My name is Alza Ichsan Kurniawan, just call me Alza or Za. Currently working at 
 I'm always open and looking for any collaboration or founding startup, feel free to reach me out via :
 - Email : [alzaichsank@gmail.com](mailto:alzaichsank@gmail.com)
 - LinkedIn : [Alza Ichsan Kurniawan](https://www.linkedin.com/in/alzaichsank/)
-- Personal Site : [Landing Page](http://codehopedevloper.com/)
+- Personal Site : [Landing Page](https://weacode.com/)
