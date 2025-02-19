@@ -2,7 +2,7 @@
 
 # Hello!
 
-My name is Alza Ichsan Kurniawan, just call me Alza or Za. Currently working at SehatQ as Sr. Android Developer for Telemed team.
+My name is Alza Ichsan Kurniawan, just call me Alza or Za. Currently working at Netzme as Mobile Engineer Flutter for Mobile team.
 
 ![Alzaichsank's github stats](https://github-readme-stats.vercel.app/api?username=alzaichsank&show_icons=true&line_height=21&show_icons=true&theme=nord)
 <span style="display:inline-block; width: 10px;"></span>
