@@ -1,5 +1,8 @@
-# 💫 About Me:
-### Hi there 👋<br><br>Hello!<br><br>My name is Alza Ichsan Kurniawan, just call me Alza or Za. Currently working at Netzme as Mobile Engineer Flutter for Mobile team.<br>Im Front End Developer Mobile and Web, also AI Enthusiast.<br>
+## Hi there 👋
+
+### Hello!
+
+My name is Alza Ichsan Kurniawan, just call me Alza or Za. Currently working at Netzme as Mobile Engineer Flutter for Mobile team. Im Front End Developer Mobile and Web, also AI Enthusiast.
 
 
 ## 🌐 Socials:
